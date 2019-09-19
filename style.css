@@ -1,0 +1,22 @@
+/*
+ Theme Name:   OceanWp Child
+ Description:  OceanWp Child Theme
+ Author:       Rasmus Riddersholm
+ Template:     oceanwp
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+*/
+
+.plakater{
+    margin-top:-50% !important;
+}
+
+.logo{
+    margin-top:-10% !important;
+}
+
+.video{
+    margin-top:-10% !important;
+}
